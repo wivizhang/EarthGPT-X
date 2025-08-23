@@ -6,7 +6,7 @@
 
 
 ##  :sparkles: Introduction
-We introduce EarthGPT-X, the first MLLM designed for multi-level spatial understanding of multi-source RS imagery (optical, SAR, infrared). It advances beyond existing RS MLLMs by supporting free-form visual prompts (e.g., points, boxes, scribbles) to enable flexible multi-granularity interpretation. EarthGPT-X unifies diverse spatial reasoning tasks into a visual prompting framework, providing a generalizable understanding across heterogeneous RS data.
+We introduce EarthGPT-X, the first MLLM designed for multi-level spatial understanding of multi-source remote sensing (RS) imagery (optical, SAR, infrared). It advances beyond existing RS MLLMs by supporting free-form visual prompts (e.g., points, boxes, scribbles) to enable flexible multi-granularity interpretation. EarthGPT-X unifies diverse spatial reasoning tasks into a visual prompting framework, providing a generalizable understanding across heterogeneous RS data.
  <div align="center">
   <img src="example.png">
 </div>
