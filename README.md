@@ -15,3 +15,6 @@ We introduce EarthGPT-X, the first MLLM designed for multi-level spatial underst
 
 Coming soon!
 
+
+## :envelope: Contact
+If you have any questions about EarthGPT-X, please feel free to contact w.w.zhanger@gmail.com.
